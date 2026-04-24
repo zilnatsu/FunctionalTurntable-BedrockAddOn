@@ -16,7 +16,7 @@
 - You can start coding in the "scripts" folder (not the scripts folder in the behavior pack).
 - Type in Terminal: "tsc.cmd --watch" and run it to compile the Typescript file to JavaScript and save it in the behavior pack.
 - If you want to add a song, you have to convert the song to .ogg format first, then create its sound definitions in the Resource Pack, and implement the sound definitions into the script.
-- And other things like adding new items, new blocks, and their components, or new entities, you can learn about them on [wiki.bedrock.dev](https://wiki.bedrock.dev/)
+- And other things like adding new items, new blocks, and their components, or new entities, you can learn about them on [wiki.bedrock.dev](https://wiki.bedrock.dev/) or watch a tutorial on YouTube.
 
 ## Note:
 I have deleted some files to avoid copyright claims such as songs and album covers, some of the deleted files include:
