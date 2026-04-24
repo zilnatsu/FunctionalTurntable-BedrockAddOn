@@ -13,9 +13,9 @@
 - The model of the turntable block itself is still not finalized (I'm too lazy to finish the model and it looks ugly :v).
 
 ## Guide:
-- You can start coding in the "scripts" folder (not the scripts folder in the behavior pack).
-- Type in Terminal: "tsc.cmd --watch" and run it to compile the TypeScript file to JavaScript and save it in the behavior pack.
-- If you want to add a song, you have to convert the song to .ogg format first, then create its sound definitions in the Resource Pack, and implement the sound definitions into the script.
+- You can start coding in the ***"scripts"* folder** (not the scripts folder in the behavior pack).
+- Type in Terminal: ***"tsc.cmd --watch"*** and run it to compile the TypeScript file to JavaScript and save it in the behavior pack.
+- If you want to add a song, you have to convert the song to ***.ogg format*** first, then create its ***sound definitions*** in the Resource Pack, and implement the sound definitions into the script.
 - And other things like adding new items, new blocks, and their components, or new entities, you can learn about them on [wiki.bedrock.dev](https://wiki.bedrock.dev/) or watch a tutorial on YouTube.
 
 ## Note:
@@ -27,7 +27,7 @@ I have deleted some files to avoid copyright claims such as songs and album cove
 - RP/textures/ui_icons/comealivestripped.png
 - RP/textures/ui_icons/tinygiant.png
 
-Warning: Maybe in the next few years, JSON UI will be gradually discontinued and replaced with [Ore UI](https://github.com/Mojang/ore-ui) which is based on React and TypeScript by Mojang, thus making add-ons containing JSON UI (including this project) will be broken.
+***Warning: Maybe in the next few years, JSON UI will be gradually discontinued and replaced with [Ore UI](https://github.com/Mojang/ore-ui) which is based on React and TypeScript by Mojang, thus making add-ons containing JSON UI (including this project) will be broken.***
 
 Because that warning is the reason why I left this project. So the last thing, I'm really sorry if I can't make a good README :) (I'm still a beginner in the coding world).
 
