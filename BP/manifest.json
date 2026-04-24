@@ -2,7 +2,7 @@
     "format_version": 2,
     "header": {
         "name": "Functional Turntable! - Behavior Pack",
-        "description": "Still in development.",
+        "description": "Still in development. Initiated by FirezD.",
         "uuid": "1672d888-8fbe-4a45-b2bc-48d7be882c91",
         "version": "0.0.0",
         "min_engine_version": [
@@ -13,7 +13,7 @@
     },
     "modules": [
         {
-            "description": "Still in development.",
+            "description": "Still in development. Initiated by FirezD.",
             "type": "data",
             "uuid": "23ee8bb0-0b71-48db-b8d6-138bfc3ece28",
             "version": "0.0.0"
