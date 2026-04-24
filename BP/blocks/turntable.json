@@ -1,0 +1,29 @@
+{
+    "format_version": "1.21.50",
+    "minecraft:block": {
+        "description": {
+            "identifier": "firezd:turntable",
+            "menu_category": {
+                "category": "items"
+            }
+        },
+        "components": {
+            "minecraft:geometry": "geometry.turntable",
+            "minecraft:material_instances": {
+                "*": {
+                    "texture": "turntable"
+                }
+            },
+            "minecraft:item_visual": {
+                "geometry": "geometry.turntable",
+                "material_instances": {
+                    "*": {
+                        "texture": "turntable",
+                        "render_method": "opaque"
+                    }
+                }
+            },
+            "firezd:turntable_ui": {}
+        }
+    }
+}

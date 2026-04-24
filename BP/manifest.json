@@ -1,0 +1,46 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Functional Turntable! - Behavior Pack",
+        "description": "Still in development.",
+        "uuid": "1672d888-8fbe-4a45-b2bc-48d7be882c91",
+        "version": "0.0.0",
+        "min_engine_version": [
+            1,
+            26,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "Still in development.",
+            "type": "data",
+            "uuid": "23ee8bb0-0b71-48db-b8d6-138bfc3ece28",
+            "version": "0.0.0"
+        },
+        {
+            "type": "script",
+            "language": "javascript",
+            "entry": "scripts/main.js",
+            "uuid": "0bbe0dd4-e058-4908-b3e0-5cbac8f4eefa",
+            "version": "0.0.0"
+
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "2.5.0"
+        },
+        {
+            "module_name": "@minecraft/server-ui",
+            "version": "2.0.0"
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "ZiLL"
+        ],
+        "product_type": "addon"
+    }
+}

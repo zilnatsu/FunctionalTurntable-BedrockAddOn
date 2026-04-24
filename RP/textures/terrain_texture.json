@@ -1,0 +1,8 @@
+{ 
+  "texture_data": { 
+    "turntable": { 
+      "textures": ["textures/blocks/turntable"],
+      "render_method": "opaque" 
+    }
+  }
+}
