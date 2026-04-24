@@ -31,5 +31,5 @@ Warning: Maybe in the next few years, JSON UI will be gradually discontinued and
 
 Because that warning is the reason why I left this project. So the last thing, I'm really sorry if I can't make a good README :) (I'm still a beginner in the coding world).
 
-Regards from zilnatsu / FirezD (Author)
-FirezD is my XBOX gamertag actually... heheh :v
+**Regards from zilnatsu / FirezD (Author)
+FirezD is my XBOX gamertag actually... heheh :v**
