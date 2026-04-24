@@ -15,5 +15,15 @@
 ## Guide:
 - You can start coding in the "scripts" folder (not the scripts folder in the behavior pack).
 - Type in Terminal: "tsc.cmd --watch" and run it to compile the Typescript file to JavaScript and save it in the behavior pack.
+- If you want to add a song, you have to convert the song to .ogg format first, then create its sound definitions in the Resource Pack, and implement the sound definitions into the script.
+
+## Note:
+I have deleted some files to avoid copyright claims such as songs and album covers, some of the deleted files include:
+- RP/sounds/turntablerecord/burningdesire.ogg
+- RP/sounds/turntablerecord/comealivestripped.ogg
+- RP/sounds/turntablerecord/tinygiant.ogg
+- RP/textures/ui_icons/burningdesires.png
+- RP/textures/ui_icons/comealivestripped.png
+- RP/textures/ui_icons/tinygiant.png
 
 I'm really sorry if I can't make a good readme (I'm still a beginner in the coding world).
