@@ -9,7 +9,7 @@
 
 ## Known Bugs:
 - Sometimes when you click on the song you want to play, **the song doesn't play** but the message from the song being played is conveyed to the player.
-- The **block rotation on the turntable doesn't work at all** (I initially used an old rotation component that is not compatible with the latest version of Minecraft until I finally deleted the component and I don't really understand about block components that are compatible with the latest version of Minecraft).
+- The **block rotation on the turntable doesn't work at all** (I initially used an old rotation component that is not compatible with the latest version of Minecraft until I finally deleted the component and I don't really understand about new block components that are compatible with the latest version of Minecraft).
 - Because this project has been decided to be abandoned, the model of the turntable block itself is not final (I'm too lazy to finish the model :v).
 
 ## Guide:
