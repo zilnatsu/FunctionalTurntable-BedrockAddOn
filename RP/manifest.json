@@ -2,7 +2,7 @@
     "format_version": 2,
     "header": {
         "name": "Functional Turntable! - Resource Pack",
-        "description": "Still in development. Initiated by FirezD.",
+        "description": "Still in development. Initiated by FirezD (zilnatsu).",
         "uuid": "3c5496c7-dcb5-431b-b9c8-6169a55b8778",
         "version": "0.0.0",
         "min_engine_version": [
@@ -13,7 +13,7 @@
     },
     "modules": [
         {
-            "description": "Still in development. Initiated by FirezD.",
+            "description": "Still in development. Initiated by FirezD (zilnatsu).",
             "type": "resources",
             "uuid": "8f7c7d75-3366-4749-a04a-c880f9f0ad93",
             "version": "0.0.0"
