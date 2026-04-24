@@ -2,7 +2,7 @@
 
 ![Screenshot of the Features](Screenshot.png)
 
-> This is an add-on that adds a functional turntable block into Minecraft Bedrock using the Typescript language which will then be compiled into JavaScript.
+> This is an add-on that adds a functional turntable block into Minecraft Bedrock using the TypeScript language which will then be compiled into JavaScript.
 
 ## Features:
 - You can selecting and listening to songs using Bedrock's built-in JSON UI.
@@ -14,7 +14,7 @@
 
 ## Guide:
 - You can start coding in the "scripts" folder (not the scripts folder in the behavior pack).
-- Type in Terminal: "tsc.cmd --watch" and run it to compile the Typescript file to JavaScript and save it in the behavior pack.
+- Type in Terminal: "tsc.cmd --watch" and run it to compile the TypeScript file to JavaScript and save it in the behavior pack.
 - If you want to add a song, you have to convert the song to .ogg format first, then create its sound definitions in the Resource Pack, and implement the sound definitions into the script.
 - And other things like adding new items, new blocks, and their components, or new entities, you can learn about them on [wiki.bedrock.dev](https://wiki.bedrock.dev/) or watch a tutorial on YouTube.
 
@@ -27,4 +27,6 @@ I have deleted some files to avoid copyright claims such as songs and album cove
 - RP/textures/ui_icons/comealivestripped.png
 - RP/textures/ui_icons/tinygiant.png
 
-I'm really sorry if I can't make a good readme (I'm still a beginner in the coding world).
+Warning: Maybe in the next few years, JSON UI will be gradually discontinued and replaced with [Ore UI](https://github.com/Mojang/ore-ui) which is based on React and TypeScript by Mojang, thus making add-ons containing JSON UI (including this project) will be broken.
+
+I'm really sorry if I can't make a good README (I'm still a beginner in the coding world).
