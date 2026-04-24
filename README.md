@@ -10,7 +10,7 @@
 ## Known Bugs:
 - Sometimes when you click on the song you want to play, **the song doesn't play** but the message from the song being played is conveyed to the player.
 - The **block rotation on the turntable doesn't work at all** (I initially used an old rotation component that is not compatible with the latest version of Minecraft until I finally deleted the component and I don't really understand about new block components that are compatible with the latest version of Minecraft).
-- Because this project has been decided to be abandoned, the model of the turntable block itself is not final (I'm too lazy to finish the model :v).
+- The model of the turntable block itself is not final (I'm too lazy to finish the model :v).
 
 ## Guide:
 - You can start coding in the "scripts" folder (not the scripts folder in the behavior pack).
@@ -29,4 +29,7 @@ I have deleted some files to avoid copyright claims such as songs and album cove
 
 Warning: Maybe in the next few years, JSON UI will be gradually discontinued and replaced with [Ore UI](https://github.com/Mojang/ore-ui) which is based on React and TypeScript by Mojang, thus making add-ons containing JSON UI (including this project) will be broken.
 
-I'm really sorry if I can't make a good README (I'm still a beginner in the coding world).
+Because that warning is the reason why I left this project. So the last thing, I'm really sorry if I can't make a good README :) (I'm still a beginner in the coding world).
+
+Regards from zilnatsu / FirezD (Author)
+FirezD is my XBOX gamertag actually... heheh :v
